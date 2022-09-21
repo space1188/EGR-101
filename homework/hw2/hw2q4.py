@@ -24,6 +24,5 @@ for i in range(firstNum, secondNum + 1) :
         numOfNonPrime += 1
 
 
-
 # print the results
 print("The number of non prime numbers is " + str(numOfNonPrime))
