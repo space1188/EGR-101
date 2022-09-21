@@ -1,5 +1,5 @@
 
-# Brian Diosan
+# Brian Diosan in class, programming sine
 
 #Sine Without Factorial
 
