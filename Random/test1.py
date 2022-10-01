@@ -1,9 +1,6 @@
+x = {1, 2, 3}
+y = {2, 4, 6}
 
-import random as r
+from matplotlib import pyplot as plt
 
-def main() :
-
-    myFile = 'randomNumbers.txt'
-
-    with open(myFile, 'w') as file:
-        file.write(str(r.randint(0,9)))
+plt.plot(x, y)
